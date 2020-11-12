@@ -11,10 +11,10 @@ def main(argv):
     song_names = []
     if len(argv) <= 0:
         mypath = 'C:\\Users\\cubbe\\Music'
-        out_path = 'C:\\Users\\cubbe\\Desktop'
+        out_path = 'C:\\Users\\cubbe\\Documents'
     elif len(argv) <= 1:
         mypath = argv[0]
-        out_path = 'C:\\Users\\cubbe\\Desktop'
+        out_path = 'C:\\Users\\cubbe\\Documents'
     else:
         mypath = argv[0]
         out_path = argv[1]
