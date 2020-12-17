@@ -18,7 +18,7 @@ def main(argv):
     else:
         mypath = argv[0]
         out_path = argv[1]
-    top_folders = [f for f in listdir(mypath) if isdir(join(mypath, f))]
+    top_folders = [f for f in listdir(mypath) if isdir(join(mypath, f)) and f!="Pink Floyd"]
     for top_folder in top_folders:
         mid_path = mypath + "\\" + top_folder
         mid_folders = [f for f in listdir(mid_path) if isdir(join(mid_path, f))]
