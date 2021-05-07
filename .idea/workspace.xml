@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1abbe700-5290-4fb6-956d-8ce030f0d4d5" name="Default Changelist" comment="cool">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Music/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TV/__main__.py" beforeDir="false" />
+    <list default="true" id="1abbe700-5290-4fb6-956d-8ce030f0d4d5" name="Default Changelist" comment="testing">
+      <change beforePath="$PROJECT_DIR$/Roms/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roms/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608244264921</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testing">
+      <created>1620357963515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620357963515</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testing">
+      <created>1620358026285</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620358026285</updated>
+    </task>
+    <task id="LOCAL-00008" summary="testing">
+      <created>1620358060154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620358060154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +165,7 @@
     <MESSAGE value="yep" />
     <MESSAGE value="start" />
     <MESSAGE value="tv done" />
-    <option name="LAST_COMMIT_MESSAGE" value="tv done" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
 </project>
