@@ -1,4 +1,3 @@
-# hey
 import re
 from random import choice, randint
 
