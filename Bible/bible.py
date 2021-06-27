@@ -2,10 +2,8 @@ import re
 from random import choice, randint
 
 words = re.findall(r"(?<![\d:])\d+(?![\d:])|(?<!\d):(?!\d)|[a-zA-Z_’']+|[.,!?;]", open("Bible//10-0.txt", "r").read())
-print(words)
 word_grams = list(zip(words, words[1:] + words[:1], words[2:] + words[:2]))
 period_grams = [word_grams[x] for x in range(len(word_grams)) if word_grams[x][0] == "."]
-
 f = open("Bible//new-book.txt", "w")
 
 chapters = randint(13, 19)
